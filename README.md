@@ -3,7 +3,7 @@
 Cada questão está em um arquivo independente.
 
 
-### Como Executar
+### Como Executar:
 
 Com TypeScript instalado:
 
@@ -16,7 +16,7 @@ npx tsc Q01.ts
 node Q01.js
 
 
-### Observações
+### Observações:
 
 - Os códigos priorizam funções, tipos/interfaces, condicionais e laços conforme solicitado no enunciado.
 - Q04 aceita uma string na função para permitir a simulação de uma entrada inválida, mesmo que o tipo union restrinja os perfis válidos.
